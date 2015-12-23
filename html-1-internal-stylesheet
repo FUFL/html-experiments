@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>K-A-T</title>
+
+<style>
+img.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+body {
+    background-color: #fcf5fe;
+}
+
+h1 {
+    color: #f66784;
+    font-family: "Helvetica";
+    font-size: 30px;
+    text-align: center
+}
+
+p {
+    font-family: "Helvetica";
+    font-size: 16px;
+}
+</style>
+</head>
+
+<body>
+<img class=centered src=https://dl.dropboxusercontent.com/u/6474603/Stand-Alone.png alt=Stand-Alone style="width:50px;height:50px">
+<h1>FUFL</h1>
+<p style="text-align: center">Katherine Bellingham. BA Fine Art</p>
+<p><a href=http://funkyflump.co.uk>Porn</a></p>
+<p><a href=http://bafas2.tumblr.com>Uni</a></p>
+<p><a href=http://steamcommunity.com/id/funkyflump>Steam</a></p>
+<p></p>
+<p>Nobody loves me, it's true.</p>
+</body>
+</html>
